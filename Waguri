@@ -1,0 +1,7 @@
+-- this script created at https://lambloxfruitscript.vercel.app/
+getgenv().ScriptTitle = "Kaoruko Hub"
+getgenv().ScriptSubTitle = "by Minh Hiếu"
+getgenv().ScriptImage = "https://i.ibb.co/bRDjDx1s/images.jpg"
+getgenv().ScriptAuthorName = "Minh Hieu"
+getgenv().ScriptAuthorSubTitle = "https://www.tiktok.com/@minhhieu_wibu"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hoannhatz/Script/refs/heads/main/EZScript.lua"))()
